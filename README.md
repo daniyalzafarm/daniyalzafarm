@@ -3,6 +3,7 @@
 * I'm currently doing Bachelors in Computer Science from [Comsats University Islamabad](https://www.comsats.edu.pk/) 👨‍🎓
 * I enjoy learning and working in 📱 Mobile Application Development, 💻 Web Development and Artificial Intelligence & Machine Learning.
 
+<br/>
 
 ### Skills and Experience
 
