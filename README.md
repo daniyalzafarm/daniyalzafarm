@@ -1,5 +1,5 @@
 ## Hi there, I'm Daniyal Zafar 👋
-#### React Native Developer | MERN Stack Developer
+I'm Daniyal from Pakistan, currently doing Bachelors in Computer Science from [Comsats University Islamabad]
 
 ### Skills and Experience
 
