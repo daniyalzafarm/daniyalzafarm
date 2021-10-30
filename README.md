@@ -1,4 +1,4 @@
-## Daniyal Zafar
+## Hi there, I'm Daniyal Zafar 👋
 #### React Native Developer | MERN Stack Developer
 
 ### Skills and Experience
