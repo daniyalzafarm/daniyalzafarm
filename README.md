@@ -1,10 +1,10 @@
 ## Hi there, I'm Daniyal Zafar 👋
 * I'm Daniyal from Pakistan 
 * I'm currently doing Bachelors in Computer Science from [Comsats University Islamabad](https://www.comsats.edu.pk/) 👨‍🎓
-* I enjoy learning and working in:<br/>
-📱 Mobile Application Development <br/>
-💻 Web Development <br/>
-**Artificial Intelligence & Machine Learning**.
+* I enjoy learning and working in:<br/><br/>
+&nbsp&nbsp📱 Mobile Application Development. <br/>
+&nbsp&nbsp💻 Web Development. <br/>
+&nbsp&nbsp&nbsp**Artificial Intelligence & Machine Learning**.
 
 <br/>
 
