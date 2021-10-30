@@ -2,9 +2,9 @@
 * I'm Daniyal from Pakistan 
 * I'm currently doing Bachelors in Computer Science from [Comsats University Islamabad](https://www.comsats.edu.pk/) 👨‍🎓
 * I enjoy learning and working in:<br/>
-&nbsp;&nbsp;&nbsp;📱 &nbsp;Mobile Application Development. <br/>
-&nbsp;&nbsp;💻 Web Development. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Artificial Intelligence & Machine Learning**.
+&nbsp;&nbsp; **Mobile Application Development** 📱 <br/>
+&nbsp;&nbsp; **Web Development** 💻 <br/>
+&nbsp;&nbsp; **Artificial Intelligence & Machine Learning**.
 
 <br/>
 
