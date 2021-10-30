@@ -10,7 +10,7 @@
 
 ### Skills and Experience
 
-* &nbsp;&nbsp;📱 React Native
+* &nbsp;📱 &nbsp;React Native
 * 💻 MongoDb / ExpressJS / ReactJS / NodeJS
 * 💻 HTML / CSS / Javascript / MySQL / PHP
 * Programming Languages: Python / JAVA / C++
