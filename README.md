@@ -16,8 +16,6 @@
 * Programming Languages: Python / JAVA / C++
 
 <br/>
-[![Daniyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniyalzafar836)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Connect With me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/daniyalzafar836)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/daniyalzafar836/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/daniyalzafar836)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/daniyalzafar836/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/daniyalzafar836)  
