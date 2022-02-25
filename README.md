@@ -13,7 +13,7 @@
 * &nbsp;📱 &nbsp;React Native
 * 💻 MERN - MongoDb / ExpressJS / ReactJS / NodeJS
 * 💻 MEAN - MongoDb / ExpressJS / Angular / NodeJS
-* 💻 HTML / CSS / Javascript / MySQL / PHP
+* 💻 HTML / CSS / TailwindCSS / Bootstrap / Javascript / MySQL / PHP
 * Programming Languages: Python / JAVA / C++
 
 <br/>
