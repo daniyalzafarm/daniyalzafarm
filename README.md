@@ -11,6 +11,7 @@
 ### Skills and Experience
 
 * &nbsp;📱 &nbsp;React Native
+* 💻 PEVN - PostgreSQL / ExpressJS / VueJS / NodeJS
 * 💻 MERN - MongoDb / ExpressJS / ReactJS / NodeJS
 * 💻 MEAN - MongoDb / ExpressJS / Angular / NodeJS
 * 💻 HTML / CSS / TailwindCSS / Bootstrap / Javascript / MySQL / PHP
