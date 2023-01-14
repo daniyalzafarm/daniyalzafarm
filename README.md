@@ -1,10 +1,12 @@
 ## Hi there, I'm Daniyal Zafar 👋
-* I'm Daniyal from Pakistan 
-* I'm currently doing Bachelors in Computer Science from [Comsats University Islamabad](https://www.comsats.edu.pk/) 👨‍🎓
-* I enjoy learning and working in:<br/>
-&nbsp;&nbsp; **Mobile Application Development** 📱 <br/>
-&nbsp;&nbsp; **Web Development** 💻 <br/>
-&nbsp;&nbsp; **Artificial Intelligence & Machine Learning**.
+* I'm Computer Scientist from Pakistan 
+* Graduated from [Comsats University Islamabad](https://www.comsats.edu.pk/) 👨‍🎓
+* Currently working as a **Full Stack Developer** at [**Cowlar Design Studio**](https://cowlardesignstudio.com/)
+  * Work Github Profile: @[daniyal-zafar-cowar](https://github.com/daniyal-zafar-cowlar)
+* I enjoy learning and working in:
+  * **Web Development** 💻
+  * **Mobile Application Development** 📱
+  * **Artificial Intelligence & Machine Learning**.
 
 <br/>
 
