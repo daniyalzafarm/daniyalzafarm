@@ -1,12 +1,14 @@
 ## Hi there, I'm Daniyal Zafar 👋
-* I'm Computer Scientist from Pakistan 
+* I'm a Software Engineer from Pakistan 
 * Graduated from [Comsats University Islamabad](https://www.comsats.edu.pk/) 👨‍🎓
-* Currently working as a **Full Stack Developer** at [**Cowlar Design Studio**](https://cowlardesignstudio.com/)
+* Currently working as a **Software Team Lead** at [**Cowlar Design Studio**](https://cowlardesignstudio.com/)
   * Work Github Profile: @[daniyal-zafar-cowar](https://github.com/daniyal-zafar-cowlar)
 * I enjoy learning and working in:
   * **Web Development** 💻
   * **Mobile Application Development** 📱
-  * **Artificial Intelligence & Machine Learning**.
+  * **Artificial Intelligence & Machine Learning**
+  * **Cloud Computing and DevOps**
+  * **Networking**
 
 <br/>
 
@@ -14,8 +16,8 @@
 
 * &nbsp;📱 &nbsp;React Native
 * 💻 PEVN - PostgreSQL / ExpressJS / VueJS / NodeJS
-* 💻 MERN - MongoDb / ExpressJS / ReactJS / NodeJS
-* 💻 MEAN - MongoDb / ExpressJS / Angular / NodeJS
+* 💻 MERN - MongoDB / ExpressJS / ReactJS / NodeJS
+* 💻 MEAN - MongoDB / ExpressJS / Angular / NodeJS
 * 💻 HTML / CSS / TailwindCSS / Bootstrap / Javascript / MySQL / PHP
 * Programming Languages: Python / JAVA / C++
 
