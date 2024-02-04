@@ -3,30 +3,40 @@
 * Graduated from [Comsats University Islamabad](https://www.comsats.edu.pk/) 👨‍🎓
 * Currently working as a **Software Team Lead** at [**Cowlar Design Studio**](https://cowlardesignstudio.com/)
   * Work Github Profile: @[daniyal-zafar-cowar](https://github.com/daniyal-zafar-cowlar)
+  * Work Gitlab Profile: @[daniyal.zafar.cowar](https://gitlab.com/daniyal.zafar.cowlar)
 * I enjoy learning and working in:
-  * **Web Development** 💻
-  * **Mobile Application Development** 📱
+  * 💻 **Web Development** 
+  * 📱 **Mobile Application Development** 
+  * 🌐 **Cloud Computing and DevOps** 
   * **Artificial Intelligence & Machine Learning**
-  * **Cloud Computing and DevOps**
   * **Networking**
 
 <br/>
 
 ### Skills and Experience
 
-* &nbsp;📱 &nbsp;React Native
-* 💻 PEVN - PostgreSQL / ExpressJS / VueJS / NodeJS
-* 💻 MERN - MongoDB / ExpressJS / ReactJS / NodeJS
-* 💻 MEAN - MongoDB / ExpressJS / Angular / NodeJS
-* 💻 HTML / CSS / TailwindCSS / Bootstrap / Javascript / MySQL / PHP
+* 💻 **Web Development:**
+  * PEVN - PostgreSQL / ExpressJS / VueJS / NodeJS
+  * MERN - MongoDB / ExpressJS / ReactJS / NodeJS
+  * MEAN - MongoDB / ExpressJS / Angular / NodeJS
+  * HTML / CSS / TailwindCSS / Bootstrap / Javascript / MySQL / PHP
+* 📱 **Mobile Application Development:**
+  * React Native
+  * Flutter
+* 🌐 **Cloud Computing and DevOps:**
+  * Cloud Platforms Experience:
+    * Azure, AWS
+  * Local Server Deployments: 
+    * Docker, Docker Compose, Nginx(for Load Balancing) 
 * Programming Languages: Python / JAVA / C++
 
 <br/>
 
 ### Search keywords to navigate in Repositories
 
-* React Native - reactNative
 * NodeJS - nodejs
+* React Native - reactNative
+* Flutter - flutter
 * ReactJs - react
 * Angular - angular
 * HTML / CSS / Bootstrap / MySQL / PHP - html, html-css
