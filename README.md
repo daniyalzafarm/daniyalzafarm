@@ -1,36 +1,46 @@
-## Hi there, I'm Daniyal Zafar 👋
-* I'm a Software Engineer from Pakistan 
-* Graduated from [Comsats University Islamabad](https://www.comsats.edu.pk/) 👨‍🎓
-* Currently working as a **Software Team Lead** at [**Cowlar Design Studio**](https://cowlardesignstudio.com/)
-  * Work Github Profile: @[daniyal-zafar-cowar](https://github.com/daniyal-zafar-cowlar)
-  * Work Gitlab Profile: @[daniyal.zafar.cowar](https://gitlab.com/daniyal.zafar.cowlar)
-* I enjoy learning and working in:
-  * 💻 **Web Development** 
-  * 📱 **Mobile Application Development** 
-  * 🌐 **Cloud Computing and DevOps** 
-  * **Artificial Intelligence & Machine Learning**
-  * **Networking**
+# Hi there, I'm Daniyal Zafar! 👋  
 
-<br/>
+## 🚀 About Me  
+I'm a **Software Engineer, Founder, and CTO**, passionate about building innovative digital solutions that drive real impact. I specialize in **full-stack development, AI, cloud computing, and DevOps**, constantly exploring new technologies to stay ahead of the curve.  
 
-### Skills and Experience
+### 🌍 Where I'm At  
+- 🏢 **Co-Founder & CTO** at [VentureAdvisor.AI](https://ventureadvisor.ai)  
+- 💡 **Founder** at [EtceteraSoft Technologies](https://etceterasoft.com)
+- 💼 Former **SVP of Software Engineering** at Cowlar Design Studio  
+- 🎓 Graduate of [COMSATS University Islamabad](https://www.comsats.edu.pk/)  
 
-* 💻 **Web Development:**
-  * PEVN - PostgreSQL / ExpressJS / VueJS / NodeJS
-  * MERN - MongoDB / ExpressJS / ReactJS / NodeJS
-  * MEAN - MongoDB / ExpressJS / Angular / NodeJS
-  * HTML / CSS / TailwindCSS / Bootstrap / Javascript / MySQL / PHP
-* 📱 **Mobile Application Development:**
-  * React Native
-  * Flutter
-* 🌐 **Cloud Computing and DevOps:**
-  * Cloud Platforms Experience:
-    * Azure, AWS
-  * Local Server Deployments: 
-    * Docker, Docker Compose, Nginx(for Load Balancing) 
-* Programming Languages: Python / JAVA / C++
+I love collaborating, solving complex challenges, and contributing to the tech community.  
 
-<br/>
+---
+
+## 🔥 Skills & Expertise  
+
+### 💻 **Full-Stack Web Development**  
+- **PEVN Stack:** PostgreSQL / ExpressJS / VueJS / NodeJS  
+- **MERN Stack:** MongoDB / ExpressJS / ReactJS / NodeJS  
+- **MEAN Stack:** MongoDB / ExpressJS / Angular / NodeJS  
+- HTML / CSS / TailwindCSS / Bootstrap / JavaScript / MySQL / PHP  
+
+### 📱 **Mobile Development**  
+- React Native  
+- Flutter  
+
+### 🌐 **Cloud & DevOps**  
+- **Cloud Platforms:** AWS, Azure  
+- **Containerization & Deployments:** Docker, Docker Compose, Nginx  
+
+### 🚀 **Other Technologies**  
+- Python, Java, C++  
+- AI, ML, Data Science  
+- Human-in-the-Loop Machine Learning  
+
+---
+
+## Cowlar Design Studio Contribution Stats
+🚀 Work GitHub: [daniyal-zafar-cowlar](https://github.com/daniyal-zafar-cowlar)  
+🔗 Work GitLab: [daniyal.zafar.cowar](https://gitlab.com/daniyal.zafar.cowlar)  
+
+---
 
 ### Search keywords to navigate in Repositories
 
@@ -42,8 +52,7 @@
 * HTML / CSS / Bootstrap / MySQL / PHP - html, html-css
 * JAVA - java
 
-<br/>
-
-### Connect With me:
+### 📬 Let's Connect!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/daniyalzafarm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/daniyalzafarm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/daniyalzafarm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/daniyalzafarm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/daniyalzafarm)  
 
+💬 **Feel free to reach out for collaborations, projects, or just a tech chat!**  
