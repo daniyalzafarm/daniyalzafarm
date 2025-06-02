@@ -1,15 +1,7 @@
 # Hi there, I'm Daniyal Zafar! 👋  
 
 ## 🚀 About Me  
-I'm a **Software Engineer, Founder, and CTO**, passionate about building innovative digital solutions that drive real impact. I specialize in **full-stack development, AI, cloud computing, and DevOps**, constantly exploring new technologies to stay ahead of the curve.  
-
-### 🌍 Where I'm At  
-- 🏢 **Co-Founder & CTO** at [VentureAdvisor.AI](https://ventureadvisor.ai)  
-- 💡 **Founder** at [EtceteraSoft Technologies](https://etceterasoft.com)
-- 💼 Former **SVP of Software Engineering** at Cowlar Design Studio  
-- 🎓 Graduate of [COMSATS University Islamabad](https://www.comsats.edu.pk/)  
-
-I love collaborating, solving complex challenges, and contributing to the tech community.  
+With over 3 years of hands-on experience as a Senior Software Engineer, my mission is to help you innovate faster, whether you're launching a smarter SaaS product, validating an MVP at lightning speed, or scaling with clean cloud architecture and DevOps pipelines. I thrive at the intersection of technology, speed, and strategy, and I love solving hard problems with elegant code and modern AI integrations.
 
 ---
 
